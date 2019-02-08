@@ -1,2 +1,3 @@
 # Mario
-Projects for CPSC 386
+
+Not all animations are implemented, some delay when coming out of the secret level.
